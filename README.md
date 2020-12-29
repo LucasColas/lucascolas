@@ -10,6 +10,8 @@ I'm Lucas Colas. I am a French student in engineering school (science and comput
 
 - 👯 If you want to collaborate on a project, I am available !
 
+- :handshake: Open to Work !
+
 
 ## Programming languages
 
@@ -20,13 +22,15 @@ I'm Lucas Colas. I am a French student in engineering school (science and comput
 <br><br>
 
 
-## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
 
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
 
 
 <!--
