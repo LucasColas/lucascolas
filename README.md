@@ -10,7 +10,7 @@ I'm Lucas Colas. I am a French student in engineering school (science and comput
 
 - 👯 If you want to collaborate on a project, I am available !
 
-- :handshake: Open to Work !
+#### - :handshake: Open to Work !
 
 
 ## Programming languages
