@@ -14,7 +14,7 @@ I'm Lucas Colas. I am a French student in an engineering school (science and com
 ## Programming languages
 
 ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
-<br><br>
+
 
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
