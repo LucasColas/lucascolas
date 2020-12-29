@@ -1,4 +1,11 @@
-### Hi there 👋
+# Lucas Colas' Github
+
+## Hi there 👋
+
+I'm Lucas Colas. I am a French student in an engineering school (science and computer science).
+
+- 🔭 I’m currently working on an Ultimate Tic Tac Toe with an AI. Precisely I'm working on the heuristic function. 
+
 
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
