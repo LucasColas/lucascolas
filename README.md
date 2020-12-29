@@ -16,12 +16,17 @@ I'm Lucas Colas. I am a French student in an engineering school (science and com
 ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
+
+## Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
