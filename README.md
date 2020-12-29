@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Lucas Colas. I am a French student in an engineering school (science and computer science).
+I'm Lucas Colas. I am a French student in engineering school (science and computer science).
 
 ## Projects
 
