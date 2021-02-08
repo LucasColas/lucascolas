@@ -4,15 +4,6 @@
 
 I'm Lucas Colas. I am a French student in engineering school (science and computer science). I like to work on software engineering and machine learning. 
 
-## Projects
-
-- 🔭 I’m currently working on an Ultimate Tic Tac Toe with an AI. Precisely I'm working on the heuristic function. 
-
-- 👯 If you want to collaborate on a project, I am available !
-
-#### :handshake: Open to Work !
-
-
 ## Programming languages
 
 ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
@@ -20,7 +11,6 @@ I'm Lucas Colas. I am a French student in engineering school (science and comput
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-
 
 
 
