@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Lucas Colas. I am a French student in engineering school (science and computer science). I like to work on software engineering and machine learning. 
+I'm Lucas Colas. I am a French student in second year of engineering school (french grande école). I like to work on software engineering, machine learning and blockchain. 
 
 ## Programming languages
 
