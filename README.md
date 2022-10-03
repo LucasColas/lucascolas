@@ -12,10 +12,6 @@ I'm Lucas Colas. I am a French student in third year of engineering school (fren
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-
-
 
 ## Stats
 
