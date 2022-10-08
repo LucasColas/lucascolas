@@ -16,6 +16,7 @@ I'm Lucas Colas. I am a French student in third year of engineering school (fren
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasColas&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasColas&theme=default)
 
 ## Contact
