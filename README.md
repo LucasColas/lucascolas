@@ -2,6 +2,8 @@
 
 I am a French student in third year of engineering school (french grande école). I like to work on software engineering, machine learning and game development.
 
+![snake gif](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.gif)
+
 ## Programming languages
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
@@ -19,7 +21,6 @@ I am a French student in third year of engineering school (french grande école)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
 
 
-![Snake animation](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
