@@ -1,8 +1,6 @@
-# Lucas Colas' Github
+# 👋 Hi there, I'm Lucas Colas
 
-## Hi there 👋
-
-I'm Lucas Colas. I am a French student in third year of engineering school (french grande école). I like to work on software engineering, machine learning and game development.
+I am a French student in third year of engineering school (french grande école). I like to work on software engineering, machine learning and game development.
 
 ## Programming languages
 
