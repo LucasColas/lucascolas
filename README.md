@@ -28,6 +28,8 @@ I'm Lucas Colas. I am a French student in third year of engineering school (fren
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![snake gif](https://github.com/lucascolas/lucascolas/blob/output/github-contribution-grid-snake.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
