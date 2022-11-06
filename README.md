@@ -23,7 +23,7 @@ I'm Lucas Colas. I am a French student in third year of engineering school (fren
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
 
 
-![snake gif](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/brsaidas/brsaidas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
