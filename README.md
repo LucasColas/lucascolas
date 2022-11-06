@@ -13,7 +13,6 @@ I am a French student in third year of engineering school (french grande école)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasColas&theme=default)
 
 ## Contact
 
