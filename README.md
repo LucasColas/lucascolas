@@ -2,7 +2,7 @@
 
 I am a French student in third year of engineering school (french grande école). I like to work on software engineering, machine learning and game development.
 
-![snake gif](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg)
 
 ## Programming languages
 
