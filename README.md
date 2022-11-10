@@ -42,7 +42,8 @@ I am a French student in third year of engineering school (french grande école)
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasColas)](https://github.com/anuraghazra/github-readme-stats)
-![Lucas's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascolas&layout=compact&theme=transparent&custom_title=Most%20used%20languages%20&card_width=450&hide=jupyter%20notebook)
+
+![Lucas's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascolas&custom_title=Most%20used%20languages%20&card_width=450&hide=jupyter%20notebook)
 
 ## Contact
 
