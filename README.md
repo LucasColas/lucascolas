@@ -45,11 +45,13 @@ I am a French student in third year of engineering school (french grande école)
 
 ![Lucas's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascolas&custom_title=Most%20used%20languages%20&card_width=450&hide=jupyter%20notebook)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=lucascolas&left_color=green&right_color=red" height="25"/>
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-colas-95626919b/)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=lucascolas&left_color=green&right_color=red" height="25"/>
+
 
 <!--
 **LucasColas/lucascolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
