@@ -43,7 +43,7 @@ I am a French student in third year of engineering school (french grande école)
 
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 	</a>
 </p>
 
