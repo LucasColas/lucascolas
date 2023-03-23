@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Colas
 
-I am a French student in third year of engineering school (french grande école). I like to work on software engineering, machine learning and game development.
+I am a French student pursuing my third year in engineering school (french grande école). I like to work on software engineering, machine learning and game development.
 
 ![github contribution grid snake animation](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg)
 
