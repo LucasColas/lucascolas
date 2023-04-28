@@ -48,7 +48,6 @@ I am a French student pursuing my third year in engineering school (french grand
 	</a>
 </p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=lucascolas&left_color=green&right_color=red" height="30"/>
 
 
 
