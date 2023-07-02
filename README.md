@@ -2,8 +2,14 @@
 
 I am a French student pursuing my third year in engineering school (french grande école). I like to work on software engineering, machine learning and game development.
 
-![github contribution grid snake animation](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![Github overview dark mode](https://github.com/LucasColas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Github overview light mode](https://github.com/LucasColas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+
+![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 ## Programming languages
 
