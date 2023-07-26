@@ -48,11 +48,11 @@ I am a French student pursuing my fourth year in engineering school (french gran
 
 ## Stats
 
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
+![Github contrib dark mode](https://github.com/LucasColas/lucascolas/blob/main/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+
+![Github contrib light mode](https://github.com/LucasColas/lucascolas/blob/main/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+
 
 
 
