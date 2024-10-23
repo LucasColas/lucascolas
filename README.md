@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Colas
 
-I am a French student pursuing my fith year in engineering school (french grande école). I like to work on software engineering, machine learning / deep learning and game development.
+I am a French student pursuing my master's degree in Canada (Polytechnique Montréal - UdeM). I like to work in software engineering, machine learning / deep learning and game development.
 
 ![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
