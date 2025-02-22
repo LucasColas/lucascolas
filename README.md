@@ -12,8 +12,8 @@ I'm a master's student. I work at Polytechnique Montreal (UdeM) in collaboration
 ![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 -->
 
-## Area of expertise
-Deep learning, medical imaging, computer vision, cloud computing.
+## Expertise
+Deep learning, medical imaging, computer vision, cloud computing and MLOps.
 
 ## Programming languages
 
