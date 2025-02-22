@@ -13,7 +13,7 @@ I'm a master's student. I work at Polytechnique Montreal (UdeM) in collaboration
 -->
 
 ## Area of expertise
-Deep learning, medical imaging, computer vision, cloud computing
+Deep learning, medical imaging, computer vision, cloud computing.
 
 ## Programming languages
 
