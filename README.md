@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Colas
 
-I am a French student pursuing my master's degree in Canada (Polytechnique Montréal - UdeM). I like to work in software engineering, machine learning / deep learning and game development.
+I'm a master's student. I work at Polytechnique Montreal (UdeM) in collaboration with Intellident to use AI to generate dental crowns.
 
 ![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -11,6 +11,10 @@ I am a French student pursuing my master's degree in Canada (Polytechnique Montr
 ![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 -->
+
+## Area of expertise
+Deep learning, medical imaging, computer vision, cloud computing
+
 ## Programming languages
 
 
