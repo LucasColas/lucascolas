@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Colas
 
-I'm a master's student. I work at Polytechnique Montreal (UdeM) in collaboration with Intellident to use AI to generate dental crowns.
+I'm a research master's student. I work at Polytechnique Montreal (UdeM) in collaboration with Intellident to use AI to generate dental crowns.
 
 ![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
