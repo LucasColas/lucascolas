@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Colas
 
-I'm a research master's student. I work in computer vision and deep learning at Polytechnique Montreal (UdeM) in collaboration with Intellident to use AI to generate dental crowns and bridges.
+I am a multidisciplinary AI Software Engineer with expertise spanning computer vision, generative AI, and full-stack development.
 
 ![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -11,9 +11,6 @@ I'm a research master's student. I work in computer vision and deep learning at 
 ![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages](https://github.com/LucasColas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 -->
-
-## Expertise
-Deep learning, medical imaging, computer vision, cloud computing and MLOps.
 
 
 ## Statistics
