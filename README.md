@@ -2,7 +2,7 @@
 
 I am a multidisciplinary AI Software Engineer with expertise spanning computer vision, generative AI, and full-stack development.
 
-Creator of ![gpuprices.cc](https://gpuprices.cc/)
+Creator of https://gpuprices.cc/
 
 ![github contribution grid snake animation dark mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation light mode](https://github.com/LucasColas/lucascolas/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
